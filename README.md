@@ -2,6 +2,10 @@
 
 Este proyecto contiene el pipeline de análisis de datos desarrollado para evaluar el mercado de alquileres temporales de Airbnb en la Ciudad Autónoma de Buenos Aires (CABA). El objetivo es procesar métricas clave de oferta, ocupación y rendimiento financiero para identificar oportunidades de inversión estratégicas según diferentes perfiles de riesgo.
 
+Debido a las restricciones de tamaño de archivo en la plataforma web de GitHub (límite de 25MB), los datasets de gran volumen y el archivo original del Dashboard se encuentran alojados en una carpeta pública de Google Drive conectada a este repositorio.
+
+* 🔗 **[CLIC AQUÍ PARA ACCEDER A LA CARPETA DE GOOGLE DRIVE (DATASETS Y POWER BI)](PEGÁ_ACÁ_EL_LINK_DE_TU_CARPETA_DE_DRIVE)**
+
 ---
 
 ## 📁 1. Estructura del Proyecto
