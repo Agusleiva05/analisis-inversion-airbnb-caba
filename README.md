@@ -4,7 +4,7 @@ Este proyecto contiene el pipeline de análisis de datos desarrollado para evalu
 
 Debido a las restricciones de tamaño de archivo en la plataforma web de GitHub (límite de 25MB), los datasets de gran volumen y el archivo original del Dashboard se encuentran alojados en una carpeta pública de Google Drive conectada a este repositorio.
 
-* 🔗 **[CLIC AQUÍ PARA ACCEDER A LA CARPETA DE GOOGLE DRIVE (DATASETS Y POWER BI)](PEGÁ_ACÁ_EL_LINK_DE_TU_CARPETA_DE_DRIVE)**
+* 🔗 **[CLIC AQUÍ PARA ACCEDER A LA CARPETA DE GOOGLE DRIVE (DATASETS Y POWER BI)](https://drive.google.com/drive/folders/1xpcFVEsHCxBwodNmtCRzxhAqgPaPuLRM?usp=sharing)**
 
 ---
 
