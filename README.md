@@ -11,7 +11,8 @@ El repositorio está organizado de manera modular para garantizar la reproducibi
 * **01_Data_Raw/**: Datasets crudos de origen sin modificar (listings.csv, calendar.csv, reviews.csv).
 * **02_Notebooks/**: Scripts ejecutables de Jupyter (01_Data_Cleaning.ipynb).
 * **03_Data_Processed/**: Archivos limpios generados por el código (listings_cleaned.csv, calendar_cleaned.csv, reviews_cleaned.csv).
-* **04_Dashboards/**: Capa de visualización de negocio (Archivo original de Power BI / Link a Reporte).
+* **04_Dashboards/**: Capa de visualización de negocio (Archivo original de Power BI).
+* **05_Video/**: Video explicativo.
 
 ---
 
